@@ -213,8 +213,6 @@ Reliable operational security patterns.
   https://www.youtube.com/watch?v=uTEL8Ff1Zvk
 - BeyondCorp Security Architecture (Google Cloud):  
   https://cloud.google.com/beyondcorp
-- SRECon Talk: *BeyondCorp: A New Approach to Enterprise Security*  
-  https://www.youtube.com/watch?v=YG0sb7wP6CE
 
 ---
 

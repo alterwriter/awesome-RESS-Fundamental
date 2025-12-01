@@ -28,7 +28,7 @@
   - [Incident & Security Engineering](#incident--security-engineering)
   - [Resilience & Chaos Engineering](#resilience--chaos-engineering)
   - [CI/CD & Supply Chain Security](#cicd--supply-chain-security)
-- [Case Studies (with Videos & Resources)](#case-studies-with-videos--resources)
+- [Case Studies (with Videos & Resources)]#case-studies--with-videos--resources)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -198,13 +198,11 @@ Reliable operational security patterns.
 
 ---
 
-## 📌 Case Studies (with Videos & Official Resources)
+## 📌 Case Studies — With Videos & Resources
 
 ### **1. Netflix — Chaos Engineering & Resilience**
 - Chaos Engineering Principles (official):  
   https://netflix.github.io/chaosmonkey/
-- SRECon Talk: *The Birth of Chaos Engineering*  
-  https://www.youtube.com/watch?v=26xpMCXP9bw
 - Netflix Tech Blog: Resilience Engineering  
   https://netflixtechblog.com/tagged/chaos-engineering
 
@@ -223,16 +221,12 @@ Reliable operational security patterns.
 ### **3. LinkedIn — Large-Scale SRE Culture & Reliability**
 - LinkedIn Engineering: SRE Practices  
   https://engineering.linkedin.com/blog/topic/sre
-- SRECon Talk: *Scaling SRE at LinkedIn*  
-  https://www.youtube.com/watch?v=MbHGqDDhH6A
 - Kafka & Reliability (LinkedIn Engineering)  
   https://engineering.linkedin.com/apache-kafka
 
 ---
 
 ### **4. Amazon — Resilience Hub & Fault Tolerance**
-- AWS re:Invent: *Building Resilient Architecture*  
-  https://www.youtube.com/watch?v=G2G3G5v2h4o
 - AWS Resilience Hub Overview  
   https://aws.amazon.com/resilience-hub/
 - Amazon Builders' Library: *Timeouts, Retries, and Backoff*  
@@ -241,8 +235,6 @@ Reliable operational security patterns.
 ---
 
 ### **5. Dropbox — Secure SRE Patterns & Infrastructure Evolution**
-- Dropbox Tech Talk: *Modernizing Dropbox Infrastructure*  
-  https://www.youtube.com/watch?v=PE4gwstWhmc
 - Dropbox Security Engineering Blog  
   https://dropbox.tech/tag/security
 - Dropbox Reliability Journey  

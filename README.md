@@ -28,7 +28,7 @@
   - [Incident & Security Engineering](#incident--security-engineering)
   - [Resilience & Chaos Engineering](#resilience--chaos-engineering)
   - [CI/CD & Supply Chain Security](#cicd--supply-chain-security)
-- [Case Studies (with Videos & Resources)]#case-studies--with-videos--resources)
+- [Case Studies - with Videos & Resources]#case-studies--with-videos--resources)
 - [Contributing](#contributing)
 - [License](#license)
 

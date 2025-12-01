@@ -28,7 +28,7 @@
   - [Incident & Security Engineering](#incident--security-engineering)
   - [Resilience & Chaos Engineering](#resilience--chaos-engineering)
   - [CI/CD & Supply Chain Security](#cicd--supply-chain-security)
-- [Case Studies - with Videos & Resources](#case-studies--with-videos--resources)
+- [Case Studies](#case-studies)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -198,7 +198,7 @@ Reliable operational security patterns.
 
 ---
 
-## 📌 Case Studies — With Videos & Resources
+## 📌 Case Studies
 
 ### **1. Netflix — Chaos Engineering & Resilience**
 - Chaos Engineering Principles (official):  

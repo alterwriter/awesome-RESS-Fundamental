@@ -16,21 +16,21 @@
 
 ## 📚 Table of Contents
 
-- [Introduction](#introduction)
-- [What is RESS?](#what-is-ress)
-- [RESS vs SOC](#ress-vs-soc)
-- [Core Principles of RESS](#core-principles-of-ress)
-- [Books](#books)
-- [Blogs & Articles](#blogs--articles)
-- [Videos](#videos)
-- [Tools](#tools)
+- [Introduction](#-introduction)
+- [What is RESS?](#-what-is-ress)
+- [RESS vs SOC](#-ress-vs-soc)
+- [Core Principles of RESS](#-core-principles-of-ress)
+- [Books](#-books)
+- [Blogs & Articles](#-blogs--articles)
+- [Videos](#-videos)
+- [Tools](#-tools)
   - [Monitoring & Observability](#monitoring--observability)
   - [Incident & Security Engineering](#incident--security-engineering)
   - [Resilience & Chaos Engineering](#resilience--chaos-engineering)
   - [CI/CD & Supply Chain Security](#cicd--supply-chain-security)
-- [Case Studies](#case-studies)
-- [Contributing](#contributing)
-- [License](#license)
+- [Case Studies](#-case-studies)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ---
 

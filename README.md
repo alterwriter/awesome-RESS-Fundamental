@@ -251,3 +251,6 @@ Submit improvements, research papers, new tools, or practical guides relevant to
 
 MIT License.
 
+## Credits
+### Wo-men in Tech Security | Security for Everyone
+
